@@ -1,0 +1,124 @@
+{
+  "doctors": [
+    {
+      "name": "Atha Smith",
+      "designation": "Chief Medical Officer",
+      "desc": "Duis sagittis rutrum neque, quis tincidunt arcu pretium ac.",
+      "twitter": "https://www.google.com",
+      "facebook": "https://www.google.com",
+      "instagram": "https://www.google.com",
+      "linkdin": "https://www.google.com",
+      "id": 1
+    },
+    {
+      "name": "John White",
+      "designation": "Anesthesiologist",
+      "desc": "Aenean ac turpis ante. Mauris velit sapien.",
+      "twitter": "https://www.google.com",
+      "facebook": "https://www.google.com",
+      "instagram": "https://www.google.com",
+      "linkdin": "https://www.google.com",
+      "id": 2
+    },
+    {
+      "name": "Umika Loha",
+      "designation": "Cardiology",
+      "desc": "Curabitur luctus eleifend odio. Phasellus placerat mi.",
+      "twitter": "https://www.google.com",
+      "facebook": "https://www.google.com",
+      "instagram": "https://www.google.com",
+      "linkdin": "https://www.google.com",
+      "id": 3
+    },
+    {
+      "name": "Daimy Smith",
+      "designation": "Neurosurgeon",
+      "desc": "Morbi vulputate, tortor nec pellentesque molestie, eros nisi ornare purus.",
+      "twitter": "https://www.google.com",
+      "facebook": "https://www.google.com",
+      "instagram": "https://www.google.com",
+      "linkdin": "https://www.google.com",
+      "id": 4
+    }
+  ],
+  "medicines": [
+    {
+      "id": 1,
+      "mediname": "Naproxen",
+      "mediprice": 85,
+      "mediexpiry": 2023,
+      "medidesc": "Naproxen, sold under the brand name Aleve among others, is a nonsteroidal anti-inflammatory drug used to treat pain, menstrual cramps, inflammatory diseases such as rheumatoid arthritis, gout and fever."
+    },
+    {
+      "id": 2,
+      "mediname": "Jakafi",
+      "mediprice": 85,
+      "mediexpiry": 2023,
+      "medidesc": "Ruxolitinib, sold under the brand name Jakafi among others, is a medication used for the treatment of intermediate or high-risk myelofibrosis, a type of myeloproliferative neoplasm that affects the bone."
+    },
+    {
+      "id": 3,
+      "mediname": "Hydrea",
+      "mediprice": 85,
+      "mediexpiry": 2023,
+      "medidesc": "Hydrea (hydroxyurea) is an antineoplastic (anti-cancer) agent used to treat melanoma, resistant chronic myelocytic leukemia, and recurrent, metastatic, or inoperable carcinoma of the ovary and primary squamous cell (epidermoid) carcinomas of the head and neck."
+    },
+    {
+      "id": 4,
+      "mediname": "Hiprex",
+      "mediprice": 85,
+      "mediexpiry": 2023,
+      "medidesc": "Hexamethylenetetramine, also known as methenamine, hexamine, or urotropin, is a heterocyclic organic compound with the formula (CH₂)₆N₄. This white crystalline compound is highly soluble in water and polar organic solvents. It has a cage-like structure similar to adamantane"
+    },
+    {
+      "id": 5,
+      "mediname": "Meftal",
+      "mediprice": 85,
+      "mediexpiry": 2023,
+      "medidesc": "Meftal Spas tablet is an antispasmodic medicine. It contains a combination of dicyclomine and mefenamic acid. This medicine is used for relieving pain and spasm in the abdomen and during or before menses (periods)."
+    },
+    {
+      "id": 6,
+      "mediname": "Wegovy",
+      "mediprice": 85,
+      "mediexpiry": 2023,
+      "medidesc": "WEGOVY® (semaglutide) injection 2.4 mg is an injectable prescription medicine that may help adults and children aged ≥12 years with obesity (BMI ≥30 for adults, BMI ≥ 95th percentile for age and sex for children), or some adults with excess weight (BMI ≥27) (overweight) who also have weight-related medical problems to help them lose weight and keep it off. Wegovy® should be used with a reduced calorie meal plan and increased physical activity"
+    },
+    {
+      "id": 7,
+      "mediname": "Aripiprazole",
+      "mediprice": 85,
+      "mediexpiry": 2023,
+      "medidesc": "Aripiprazole is used to treat certain mental/mood disorders (such as bipolar disorder, schizophrenia, Tourette's syndrome, and irritability associated with autistic disorder). It may also be used in combination with other medication to treat depression. Aripiprazole is known as an antipsychotic drug (atypical type)."
+    },
+    {
+      "id": 8,
+      "mediname": "Orlistat",
+      "mediprice": 85,
+      "mediexpiry": 2023,
+      "medidesc": "Orlistat, sold under the brand name Xenical among others, is a medication used to treat obesity. Its primary function is preventing the absorption of fats from the human diet by acting as a lipase inhibitor, thereby reducing caloric intake."
+    }
+  ],
+  "department": [
+    {
+      "name": "E.N.T",
+      "desc": "Vestibulum volutpat luctus quam sed finibus. Sed luctus odio eget ex posuere hendrerit. Donec iaculis nisi ut purus dapibus\n\nVivamus nisi mauris, blandit quis sem sit amet, posuere blandit diam. Cras quis quam suscipit, tincidunt neque non, ullamcorper erat. Quisque sapien ipsum, efficitur ac dui et, fringilla viverra tellus. Proin urna augue, posuere ut pellentesque quis, cursus ac neque.",
+      "id": 2
+    },
+    {
+      "name": "Cancer",
+      "desc": "Quisque sapien ipsum, efficitur ac dui et, fringilla viverra tellus. Proin urna augue, posuere ut pellentesque quis, cursus ac neque. \n\nVivamus nisi mauris, blandit quis sem sit amet, posuere blandit diam. Cras quis quam suscipit, tincidunt neque non, ullamcorper erat. Quisque sapien ipsum, efficitur ac dui et, fringilla viverra tellus. Proin urna augue, posuere ut pellentesque quis, cursus ac neque.",
+      "id": 3
+    },
+    {
+      "name": "Physiotherapy",
+      "desc": "Fusce placerat ornare enim sed varius. Mauris tortor diam, molestie eget vulputate a, facilisis quis nibh. Donec blandit efficitur nulla\n\nVivamus nisi mauris, blandit quis sem sit amet, posuere blandit diam. Cras quis quam suscipit, tincidunt neque non, ullamcorper erat. Quisque sapien ipsum, efficitur ac dui et, fringilla viverra tellus. Proin urna augue, posuere ut pellentesque quis, cursus ac neque.",
+      "id": 4
+    },
+    {
+      "name": "Dental",
+      "desc": "sollicitudin sed est. Vestibulum volutpat luctus quam sed finibus. Sed luctus odio eget ex posuere hendrerit. Donec iaculis nisi ut purus.\n\nVivamus nisi mauris, blandit quis sem sit amet, posuere blandit diam. Cras quis quam suscipit, tincidunt neque non, ullamcorper erat. Quisque sapien ipsum, efficitur ac dui et, fringilla viverra tellus. Proin urna augue, posuere ut pellentesque quis, cursus ac neque.",
+      "id": 5
+    }
+  ]
+}
